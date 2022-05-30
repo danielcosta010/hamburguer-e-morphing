@@ -15,7 +15,7 @@ body {
 .paisagem {
     height: 400px;
     width: 500px;
-    background-image: url(image2.jpg);
+    background-image: url(imagens/image2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,4 +78,13 @@ body {
     opacity: 1;
     visibility: visible;
     font-size: 14px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    
 }
