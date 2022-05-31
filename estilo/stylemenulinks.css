@@ -15,7 +15,8 @@ body {
     padding: 0;
     margin: 0;
     color: gainsboro;  
-    font-family: 'Grape Nuts', cursive;;
+    font-family: 'Grape Nuts', cursive;
+    
 }
 
 /* HEADER */
@@ -149,7 +150,7 @@ a:hover {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -218,6 +219,8 @@ a:hover {
     justify-content: space-evenly;
     align-items: center;
     margin: 3rem 0;
+    background-image: url(imagens/imageback2.jpg);
+    background-attachment: fixed;
 }
 
 .card-container {
