@@ -220,7 +220,11 @@ a:hover {
     align-items: center;
     margin: 3rem 0;
     background-image: url(imagens/imageback2.jpg);
+    background-size: cover;
+    background-position: right center;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    ba
 }
 
 .card-container {
