@@ -4,11 +4,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
 
 .root {
-    --cor1: #1F5C27  
-    --cor2: #90E19B 
-    --cor3: #4BDB5F 
-    --cor4: #3B5C3F 
-    --cor5: #39A848
+    --cor1: #1F5C27;  
+    --cor2: #90E19B;
+    --cor3: #4BDB5F;
+    --cor4: #3B5C3F; 
+    --cor5: #39A848;
 }
 
 body {
@@ -224,7 +224,7 @@ a:hover {
     background-position: right center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    ba
+    
 }
 
 .card-container {
